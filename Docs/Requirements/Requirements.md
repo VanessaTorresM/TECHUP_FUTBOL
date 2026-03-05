@@ -371,3 +371,7 @@
 | **Reglas de Negocio**     | 1) Las relaciones entre entidades deben reflejar restricciones del dominio. <br> 2) Los datos críticos del torneo deben conservar historial cuando aplique. <br> 3) Las consultas frecuentes deben optimizarse con índices.                                                                                      |
 | **Anexos**                | **Prototipos:** N/A <br> **Abreviaturas:** N/A                                                                                                                                                                                                                                                                   |
 | **Historial de revisión** | **Elaborado por:** Santiago Cajamarca <br> **Aprobado por:** ___ <br> **Fecha:** 04/03/2026 <br> **Descripción y Justificación de cambios:**                                                                                                                                                                     |
+
+# 2. Diagrama de contexto
+
+![TechCUP-Futbol.jpg](../Images/TechCUP-Futbol.jpg)
