@@ -249,3 +249,7 @@
 | **Reglas de Negocio**     | 1) Las estadísticas se calculan automáticamente a partir de la información registrada en los partidos. <br> 2) “Máximos goleadores” se ordena de mayor a menor por cantidad de goles. <br> 3) El “Historial de partidos” debe permitir filtrar por equipo y por rango de fechas y mostrar resultados oficiales. <br> 4) “Resultados por equipo” debe reflejar únicamente partidos del torneo seleccionado y mostrar marcadores oficiales. |
 | **Anexos**                | **Prototipos:** Mockup de módulo de estadísticas. <br> **Reglas de Negocio:** Cálculo basado en resultados registrados; ordenamiento y empates en goleadores. <br> **Abreviaturas:** N/A                                                                                                                                                                                                                                                  |
 | **Historial de revisión** | **Elaborado por:** Santiago Cajamarca <br> **Aprobado por:** ___ <br> **Fecha:** 04/03/2026 <br> **Descripción y Justificación de cambios:**                                                                                                                                                                                                                                                                                              |
+
+# 2. Diagrama de contexto
+
+![TechCUP-Futbol.jpg](../Images/TechCUP-Futbol.jpg)
