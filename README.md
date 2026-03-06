@@ -45,11 +45,14 @@ Plataforma digital para gestionar el torneo semestral a cargo del programa de In
 ## Analisis de requerimientos
 [Requirements.md](Docs/Requirements/Requirements.md)
 
-## Mockups
-Link de figma: https://www.figma.com/design/ntuQw9HDK5ni4791nbgedM/Tech?node-id=0-1&t=P1eQ7pgok58bUIro-1
 
 ## Manual de Identidad
 [Manual de Identidad.pdf](Docs/Requirements/Manual%20de%20Identidad.pdf)
+
+
+## Mockups
+Link de figma: https://www.figma.com/design/ntuQw9HDK5ni4791nbgedM/Tech?node-id=0-1&t=P1eQ7pgok58bUIro-1
+
 
 ## Jira
 https://tech-up.atlassian.net/?continue=https%3A%2F%2Ftech-up.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiM2RlNmU3MTNlMjlkNDg0NjgwODA1YjMwN2UzYzJlNTEiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9
