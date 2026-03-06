@@ -247,6 +247,3 @@
 | **Anexos**                | **Prototipos:** Mockup de módulo de estadísticas. <br> **Reglas de Negocio:** Cálculo basado en resultados registrados; ordenamiento y empates en goleadores. <br> **Abreviaturas:** N/A                                                                                                                                                                                                                                                  |
 | **Historial de revisión** | **Elaborado por:** Santiago Cajamarca <br> **Aprobado por:** ___ <br> **Fecha:** 04/03/2026 <br> **Descripción y Justificación de cambios:**                                                                                                                                                                                                                                                                                              |
 
-# 2. Diagrama de contexto
-
-![TechCUP-Futbol.jpg](../Images/TechCUP-Futbol.jpg)
