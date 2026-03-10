@@ -716,7 +716,7 @@
 | **Precondiciones**        | 1) El usuario debe haberse registrado previamente (RF02). |
 | **Reglas de Negocio**     | 1) Las credenciales se validan contra los datos registrados en el sistema. <br> 2) El token JWT tiene un tiempo de expiración configurable. <br> 3) Todas las rutas protegidas del sistema requieren un token válido. <br> 4) La contraseña debe almacenarse encriptada (hash). |
 | **Anexos**                | **Prototipos:** Mockup de pantalla de Login. <br> **Abreviaturas:** JWT (JSON Web Token) |
-| **Historial de revisión** | **Elaborado por:** Santiago Cajamarca <br> **Aprobado por:** David Cajamarca <br> **Fecha:** 09/03/2026 <br> **Descripción y Justificación de cambios:** Nuevo requerimiento creado a partir de la separación de RNF01 como funcionalidad del sistema. |
+| **Historial de revisión** | **Elaborado por:** Santiago Cajamarca <br> **Aprobado por:** --- <br> **Fecha:** 09/03/2026 <br> **Descripción y Justificación de cambios:** Nuevo requerimiento creado a partir de la separación de RNF01 como funcionalidad del sistema. |
 
 **DATOS DE ENTRADA:**
 
@@ -766,7 +766,7 @@
 | **Precondiciones**        | 1) El usuario debe estar autenticado (RF13). <br> 2) El administrador debe tener el rol de Administrador asignado. |
 | **Reglas de Negocio**     | 1) Los roles del sistema son: Estudiante, Graduado, Profesor, Personal Administrativo, Familiar, Capitán, Organizador, Árbitro, Administrador. <br> 2) Un usuario puede tener múltiples roles (ejemplo: Estudiante + Capitán). <br> 3) El rol de Capitán se asigna automáticamente al crear un equipo. <br> 4) Solo el Administrador puede asignar/revocar roles manualmente. <br> 5) Cada endpoint del API debe validar que el usuario tenga el rol requerido. |
 | **Anexos**                | **Prototipos:** Mockup de Panel de Administración de Roles. <br> **Abreviaturas:** RBAC (Role-Based Access Control) |
-| **Historial de revisión** | **Elaborado por:** Santiago Cajamarca <br> **Aprobado por:** David Cajamarca <br> **Fecha:** 09/03/2026 <br> **Descripción y Justificación de cambios:** Nuevo requerimiento creado a partir de la separación de RNF02 como funcionalidad del sistema. |
+| **Historial de revisión** | **Elaborado por:** Santiago Cajamarca <br> **Aprobado por:** --- <br> **Fecha:** 09/03/2026 <br> **Descripción y Justificación de cambios:** Nuevo requerimiento creado a partir de la separación de RNF02 como funcionalidad del sistema. |
 
 **DATOS DE ENTRADA:**
 
